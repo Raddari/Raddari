@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @[raddari](https://github.com/raddari)
 - 👀 I’m interested in emulators, operating systems, reverse engineering
 - 🌱 I’m currently learning Ghidra, RE workflow, operating systems
-- 💞️ I’m looking to collaborate on beginner level open source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... (soon!)
 
 <!---
