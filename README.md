@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @[raddari](https://github.com/raddari)
-- 👀 I’m interested in emulators, operating systems, reverse engineering
-- 🌱 I’m currently learning Ghidra, RE workflow, operating systems
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ... (soon!)
+# Welcome!
+I'm raddari and I love everything to do with reverse engineering -- especially old PS2 games I played as a kid.
 
-<!---
-Raddari/Raddari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Other Interests
+- Emulators
+- [zig](https://ziglang.org/)
