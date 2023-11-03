@@ -3,4 +3,5 @@ I'm raddari and I love everything to do with reverse engineering -- especially o
 
 ### Other Interests
 - Emulators
+- Changing my [neovim config](https://github.com/raddari/init.nvim) every 2 seconds
 - [zig](https://ziglang.org/)
