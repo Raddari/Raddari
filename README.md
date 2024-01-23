@@ -1,7 +1,7 @@
 # Welcome!
-I'm raddari and I love everything to do with reverse engineering -- especially old PS2 games I played as a kid.
+I love everything to do with reverse engineering -- especially old PS2 games I played as a kid.
 
-### Other Interests
-- Emulators
-- Changing my [neovim config](https://github.com/raddari/init.nvim) every 2 seconds
-- [zig](https://ziglang.org/)
+### Projects
+In an effort to move away from GitHub, my profiles containing future projects can be found at the links below. I may mirror some of them to GitHub.
+- https://git.sr.ht/~raddari
+- https://codeberg.org/raddari
